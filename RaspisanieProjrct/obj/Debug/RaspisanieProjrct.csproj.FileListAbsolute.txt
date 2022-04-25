@@ -1,0 +1,13 @@
+C:\my\exef\3k_2c\KPaYAP\Kyrsovoy\Prog\RaspisanieProjrct\bin\Debug\RaspisanieProjrct.exe.config
+C:\my\exef\3k_2c\KPaYAP\Kyrsovoy\Prog\RaspisanieProjrct\bin\Debug\RaspisanieProjrct.exe
+C:\my\exef\3k_2c\KPaYAP\Kyrsovoy\Prog\RaspisanieProjrct\bin\Debug\RaspisanieProjrct.pdb
+C:\my\exef\3k_2c\KPaYAP\Kyrsovoy\Prog\RaspisanieProjrct\obj\Debug\RaspisanieProjrct.csproj.AssemblyReference.cache
+C:\my\exef\3k_2c\KPaYAP\Kyrsovoy\Prog\RaspisanieProjrct\obj\Debug\RaspisanieProjrct.Form1.resources
+C:\my\exef\3k_2c\KPaYAP\Kyrsovoy\Prog\RaspisanieProjrct\obj\Debug\RaspisanieProjrct.Properties.Resources.resources
+C:\my\exef\3k_2c\KPaYAP\Kyrsovoy\Prog\RaspisanieProjrct\obj\Debug\RaspisanieProjrct.csproj.GenerateResource.cache
+C:\my\exef\3k_2c\KPaYAP\Kyrsovoy\Prog\RaspisanieProjrct\obj\Debug\RaspisanieProjrct.csproj.CoreCompileInputs.cache
+C:\my\exef\3k_2c\KPaYAP\Kyrsovoy\Prog\RaspisanieProjrct\obj\Debug\RaspisanieProjrct.exe
+C:\my\exef\3k_2c\KPaYAP\Kyrsovoy\Prog\RaspisanieProjrct\obj\Debug\RaspisanieProjrct.pdb
+C:\my\exef\3k_2c\KPaYAP\Kyrsovoy\Prog\RaspisanieProjrct\obj\Debug\RaspisanieProjrct.Forms.StartForm.resources
+C:\my\exef\3k_2c\KPaYAP\Kyrsovoy\Prog\RaspisanieProjrct\obj\Debug\RaspisanieProjrct.Forms.SearchViewForm.resources
+C:\my\exef\3k_2c\KPaYAP\Kyrsovoy\Prog\RaspisanieProjrct\obj\Debug\RaspisanieProjrct.Forms.ViewForm.resources
